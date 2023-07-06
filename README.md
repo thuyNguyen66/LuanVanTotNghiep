@@ -17,6 +17,6 @@
   - Thi thử
   - Chat
   - Luyện thi
-## kết luận
+## Kết luận
   - Giải quyết tốt các phương pháp để giáo viên có thể linh động trong quá trình cập nhật kho dữ liệu đề, đồng thời có thể tổ chức thuận tiện cho người học có thể tự ôn luyện.
   - Về phần website, nó đáp ứng được việc ôn luyện trắc nghiệm của học sinh, các bộ đề trắc nghiệm được sinh một cách ngẫu nhiên, mang tính khách quan.
